@@ -1,0 +1,41 @@
+.container {
+	border: solid 1px black;
+	width: 800px;
+	height: 500px;
+	margin: 50px auto auto auto;
+	font-size: 0px;
+}
+
+.fifty {
+	border: solid 1px black;
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+}
+
+.thirty {
+	border: solid 1px black;
+	width: 33.333%;
+	height: 300px;
+	display: inline-block;
+}
+
+.fone{
+	background-color: green;
+}
+
+.ftwo {
+	background-color: blue;
+}
+
+.tone {
+	background-color: grey;
+}
+
+.ttwo {
+	background-color: black;
+}
+
+.tthree {
+	background-color: orange;
+}
